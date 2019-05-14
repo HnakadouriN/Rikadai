@@ -42,3 +42,4 @@ break;
 }
 printf("反復回数N : %d\n近似解x(N) : %12e\n",countn,kinjin);
 }
+//これは表示されているのか
